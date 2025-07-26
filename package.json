@@ -1,0 +1,25 @@
+{
+  "name": "helloexpressmolly",
+  "version": "1.0.0",
+  "description": "In this exercise, we will be using the Express Node.js framework to write our first server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mollyinvt/helloexpressMolly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mollyinvt/helloexpressMolly/issues"
+  },
+  "homepage": "https://github.com/mollyinvt/helloexpressMolly#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
